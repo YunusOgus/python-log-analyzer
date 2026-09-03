@@ -1,0 +1,6 @@
+Sep 03 10:00:01 training-server sshd[1201]: Failed password for invalid user admin from 198.51.100.42 port 51234 ssh2
+Sep 03 10:00:12 training-server sshd[1202]: Failed password for root from 198.51.100.42 port 51235 ssh2
+Sep 03 10:00:26 training-server sshd[1203]: Failed password for invalid user admin from 198.51.100.42 port 51236 ssh2
+Sep 03 10:01:01 training-server sshd[1204]: Failed password for guest from 203.0.113.8 port 51237 ssh2
+Sep 03 10:01:20 training-server webapp[441]: ERROR database connection retry failed
+Sep 03 10:01:45 training-server sshd[1205]: Accepted publickey for analyst from 192.0.2.10 port 50100 ssh2
